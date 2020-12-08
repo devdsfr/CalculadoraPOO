@@ -3,7 +3,7 @@
 Preciso que seja desenvolvida uma calculadora básica que efetue as 4 operações básicas (somar, subtrair, multiplicar e dividir) através da entrada de dados pelo usuário.
 Contudo atendendo os seguintes requisitos abaixo:
 * Trabalhe com os conceitos de programação orientada objetos (POO)
-* * Preferencialmente trabalhando com CLASSES, HERANÇAS, POLIMORFISMO
+* Preferencialmente trabalhando com CLASSES, HERANÇAS, POLIMORFISMO
 * Utilize as boas práticas de "clean code"
 * Que cubra no mínimo 2 princípios de SOLID.
 
